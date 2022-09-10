@@ -19,7 +19,7 @@ public class SpringBootJenkinsRestApiApplication {
 	}
 
 	public static void main(String[] args) {
-		logger.info("SpringBootJenkinsRestApiApplication is running ...");
+		logger.info("SpringBootJenkinsRestApiApplication is runningsssssssssssssssssss ...");
 		SpringApplication.run(SpringBootJenkinsRestApiApplication.class, args);
 
 	}
