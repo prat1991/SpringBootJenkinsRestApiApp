@@ -19,7 +19,7 @@ public class SpringBootJenkinsRestApiApplication {
 	}
 
 	public static void main(String[] args) {
-		logger.info("SpringBootJenkinsRestApiApplication is runningsss...");
+		logger.info("SpringBootJenkinsRestApiApplication is running_Build5...");
 		SpringApplication.run(SpringBootJenkinsRestApiApplication.class, args);
 
 	}
